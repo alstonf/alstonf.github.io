@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alstonf&label=Profile%20views&color=0e75b6&style=flat" alt="alstonf" /> </p>
 
-- 🔭 I’m currently working on [My Profile](https://github.com/alstonf/alstonf)
+- 🔭 I’m currently working on [My Profile](https://alstonf.github.io)
 
 - 👨‍💻 All of my projects are available at [https://github.com/alstonf](https://github.com/alstonf)
 
